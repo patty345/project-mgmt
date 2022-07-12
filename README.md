@@ -7,7 +7,7 @@ MERN application that can add clients and projects
 
 ## Installation
 
-- Clone this repo to local maching
+- Clone this repo to local machine
 
 - run npm install to get all the dependencies
 
